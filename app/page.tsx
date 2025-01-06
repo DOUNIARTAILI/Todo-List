@@ -1,5 +1,3 @@
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import TodoList from "@/components/todo-list";
 import CreateTodo from "@/components/create-todo";
 
